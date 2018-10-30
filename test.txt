@@ -1,0 +1,2 @@
+This file will show up in the /opt directory inside the container.
+Any files in this directory that are edited will be edited in the container.
