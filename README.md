@@ -1,6 +1,7 @@
 # Docker-Base
 
-A template for a basic docker-compose and Dockerfile. Mounts the current directory as a volume.
+Mount the current directory as a volume.
+A template using docker-compose and Dockerfile. 
 
 # How to use
 
